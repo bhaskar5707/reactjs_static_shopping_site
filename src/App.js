@@ -9,6 +9,7 @@ import Details from './components/Details';
 import Cart from './components/Cart';
 import Default from './components/Default';
 import Modal from './components/Modal';
+//https://www.youtube.com/watch?v=-edmQKcOW8s
 class App extends Component{
 	render()
 	{
